@@ -1,1 +1,1 @@
-# KrankenhausVerwaltung
+# Krankenhaus Verwaltung
