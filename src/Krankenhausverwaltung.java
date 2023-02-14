@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KrankenhausVerwaltung {
+public class Krankenhausverwaltung {
     static Scanner sc = new Scanner(System.in);
     static String[] patientenNamen = new String[100];
     static int[] patientenIDs = new int[100];
